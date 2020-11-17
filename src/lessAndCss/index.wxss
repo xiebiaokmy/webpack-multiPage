@@ -1,0 +1,7 @@
+#app .header {
+  height: 80px;
+  line-height: 80px;
+}
+#app .header nav ul {
+  display: flex;
+}
